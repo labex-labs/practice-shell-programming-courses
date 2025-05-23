@@ -12,9 +12,9 @@ Shell 脚本编程对于系统管理和自动化至关重要。此技能树提�
 
 |   序号 | 名称                                                                    | 难度   | Repo                                                               | 练习                                                                 |
 |--------|-------------------------------------------------------------------------|--------|--------------------------------------------------------------------|----------------------------------------------------------------------|
-|      1 | [Shell 快速入门](https://labex.io/zh/courses/quick-start-with-shell)    | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-shell)    |
-|      2 | [Shell 实践挑战](https://labex.io/zh/courses/shell-practice-challenges) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/shell-practice-challenges) |
-|      3 | [Shell 实践挑战](https://labex.io/zh/courses/shell-practice-challenges) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/shell-practice-challenges) |
+|      1 | [Shell 快速入门](https://labex.io/zh/courses/quick-start-with-shell)    | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-shell)    |
+|      2 | [Shell 实践挑战](https://labex.io/zh/courses/shell-practice-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/shell-practice-challenges) |
+|      3 | [Shell 实践挑战](https://labex.io/zh/courses/shell-practice-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/shell-practice-challenges) |
 
 ## 更多
 
