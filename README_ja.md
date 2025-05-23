@@ -12,9 +12,9 @@
 
 |   インデックス | 名前                                                                           | 難易度   | Repo                                                               | 練習                                                                   |
 |----------------|--------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|------------------------------------------------------------------------|
-|              1 | [シェルのクイックスタート](https://labex.io/ja/courses/quick-start-with-shell) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-shell)    |
-|              2 | [シェル実践チャレンジ](https://labex.io/ja/courses/shell-practice-challenges)  | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/shell-practice-challenges) |
-|              3 | [シェル実践チャレンジ](https://labex.io/ja/courses/shell-practice-challenges)  | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/shell-practice-challenges) |
+|              1 | [シェルのクイックスタート](https://labex.io/ja/courses/quick-start-with-shell) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-shell)    |
+|              2 | [シェル実践チャレンジ](https://labex.io/ja/courses/shell-practice-challenges)  | 初級     | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/shell-practice-challenges) |
+|              3 | [シェル実践チャレンジ](https://labex.io/ja/courses/shell-practice-challenges)  | 初級     | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/shell-practice-challenges) |
 
 ## その他
 
