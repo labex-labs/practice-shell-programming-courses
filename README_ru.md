@@ -12,9 +12,9 @@
 
 |   Индекс | Название                                                                             | Сложность   | Repo                                                               | Практика                                                                       |
 |----------|--------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|        1 | [Быстрый старт с Shell](https://labex.io/ru/courses/quick-start-with-shell)          | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-shell)    |
-|        2 | [Задачи для практики в Shell](https://labex.io/ru/courses/shell-practice-challenges) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/shell-practice-challenges) |
-|        3 | [Задачи для практики в Shell](https://labex.io/ru/courses/shell-practice-challenges) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/shell-practice-challenges) |
+|        1 | [Быстрый старт с Shell](https://labex.io/ru/courses/quick-start-with-shell)          | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-shell)    |
+|        2 | [Задачи для практики в Shell](https://labex.io/ru/courses/shell-practice-challenges) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/shell-practice-challenges) |
+|        3 | [Задачи для практики в Shell](https://labex.io/ru/courses/shell-practice-challenges) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/shell-practice-challenges) |
 
 ## Больше
 
