@@ -12,9 +12,9 @@ Shell scripting is crucial for system administration and automation. This Skill 
 
 |   Index | Name                                                                            | Difficulty   | Repo                                                               | Practice                                                           |
 |---------|---------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-|       1 | [Quick Start with Shell](https://labex.io/courses/quick-start-with-shell)       | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 Start Lab](https://labex.io/courses/quick-start-with-shell)    |
-|       2 | [Shell Practice Challenges](https://labex.io/courses/shell-practice-challenges) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Start Lab](https://labex.io/courses/shell-practice-challenges) |
-|       3 | [Shell Practice Challenges](https://labex.io/courses/shell-practice-challenges) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Start Lab](https://labex.io/courses/shell-practice-challenges) |
+|       1 | [Quick Start with Shell](https://labex.io/courses/quick-start-with-shell)       | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 Start Lab](https://labex.io/courses/quick-start-with-shell)    |
+|       2 | [Shell Practice Challenges](https://labex.io/courses/shell-practice-challenges) | Beginner     | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Start Lab](https://labex.io/courses/shell-practice-challenges) |
+|       3 | [Shell Practice Challenges](https://labex.io/courses/shell-practice-challenges) | Beginner     | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Start Lab](https://labex.io/courses/shell-practice-challenges) |
 
 ## More
 
