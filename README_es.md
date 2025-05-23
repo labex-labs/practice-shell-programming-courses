@@ -12,9 +12,9 @@ La programación en shell es fundamental para la administración de sistemas y l
 
 |   Índice | Nombre                                                                                       | Dificultad   | Repo                                                               | Práctica                                                                        |
 |----------|----------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|        1 | [Guía rápida para comenzar con la Shell](https://labex.io/es/courses/quick-start-with-shell) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-shell)    |
-|        2 | [Desafíos de Práctica en Shell](https://labex.io/es/courses/shell-practice-challenges)       | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/shell-practice-challenges) |
-|        3 | [Desafíos de Práctica en Shell](https://labex.io/es/courses/shell-practice-challenges)       | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/shell-practice-challenges) |
+|        1 | [Guía rápida para comenzar con la Shell](https://labex.io/es/courses/quick-start-with-shell) | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-shell)    |
+|        2 | [Desafíos de Práctica en Shell](https://labex.io/es/courses/shell-practice-challenges)       | Principiante | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/shell-practice-challenges) |
+|        3 | [Desafíos de Práctica en Shell](https://labex.io/es/courses/shell-practice-challenges)       | Principiante | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/shell-practice-challenges) |
 
 ## Más
 
