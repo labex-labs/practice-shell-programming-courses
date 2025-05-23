@@ -12,9 +12,9 @@
 
 |   인덱스 | 이름                                                                       | 난이도   | Repo                                                               | 연습                                                                  |
 |----------|----------------------------------------------------------------------------|----------|--------------------------------------------------------------------|-----------------------------------------------------------------------|
-|        1 | [Shell 시작하기](https://labex.io/ko/courses/quick-start-with-shell)       | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-shell)    |
-|        2 | [Shell 실습 챌린지](https://labex.io/ko/courses/shell-practice-challenges) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/shell-practice-challenges) |
-|        3 | [Shell 실습 챌린지](https://labex.io/ko/courses/shell-practice-challenges) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/shell-practice-challenges) |
+|        1 | [Shell 시작하기](https://labex.io/ko/courses/quick-start-with-shell)       | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-shell)    |
+|        2 | [Shell 실습 챌린지](https://labex.io/ko/courses/shell-practice-challenges) | 초급     | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/shell-practice-challenges) |
+|        3 | [Shell 실습 챌린지](https://labex.io/ko/courses/shell-practice-challenges) | 초급     | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/shell-practice-challenges) |
 
 ## 더 보기
 
