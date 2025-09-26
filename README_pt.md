@@ -8,13 +8,12 @@
 <img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
 </div>
 
-Shell scripting é crucial para administração de sistemas e automação. Esta Skill Tree oferece uma maneira sistemática de dominar interfaces de linha de comando e programação shell. Feito sob medida para iniciantes, oferece um caminho claro para entender shells Unix/Linux e linguagens de script. Cursos práticos, sem vídeo, e exercícios práticos em um ambiente interativo de linha de comando ajudam você a desenvolver habilidades de shell scripting do mundo real.
+Aprenda scripting Shell para administração de sistemas e automação com este abrangente Roteiro de Aprendizagem. Projetado para iniciantes, este roteiro oferece uma maneira sistemática de dominar interfaces de linha de comando e programação Shell. Os Cursos de Shell incluídos oferecem instrução prática, não em vídeo, e exercícios práticos em um ambiente interativo de linha de comando, ajudando você a desenvolver habilidades reais em shells Unix/Linux e linguagens de script.
 
 |   Índice | Nome                                                                                | Dificuldade   | Repo                                                               | Prática                                                                 |
 |----------|-------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------|-------------------------------------------------------------------------|
-|        1 | [Início Rápido com Shell](https://labex.io/pt/courses/quick-start-with-shell)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-shell)    |
+|        1 | [Shell para Iniciantes](https://labex.io/pt/courses/shell-for-beginners)            | Iniciante     | [🔗 Repo](https://github.com/labex-labs/shell-for-beginners)       | [🚀 Iniciar Lab](https://labex.io/pt/courses/shell-for-beginners)       |
 |        2 | [Desafios Práticos de Shell](https://labex.io/pt/courses/shell-practice-challenges) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Iniciar Lab](https://labex.io/pt/courses/shell-practice-challenges) |
-|        3 | [Desafios Práticos de Shell](https://labex.io/pt/courses/shell-practice-challenges) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Iniciar Lab](https://labex.io/pt/courses/shell-practice-challenges) |
 
 ## Mais
 
