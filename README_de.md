@@ -1,23 +1,25 @@
-# Practice Shell Programmierungskurse
+# Shell Practice Courses
 
-## Sprachen
+**Sprachen:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/xd9XxfpEzs7d.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/de/learn/shell">
+    <img width="128" src="https://file.labex.io/upload/u/1991/xd9XxfpEzs7d.png" alt="Shell">
+  </a>
+</p>
 
 Lernen Sie Shell-Scripting für Systemadministration und Automatisierung mit diesem umfassenden Lernpfad. Dieser für Anfänger konzipierte Fahrplan bietet einen systematischen Weg zur Beherrschung von Kommandozeilen-Schnittstellen und Shell-Programmierung. Die enthaltenen Shell-Kurse bieten praktische, nicht-video-basierte Anleitungen und Übungen in einer interaktiven Kommandozeilenumgebung, die Ihnen helfen, reale Fähigkeiten in Unix-/Linux-Shells und Skriptsprachen zu entwickeln.
 
-|   Index | Name                                                                          | Schwierigkeit   | Repo                                                              | Übung                                                                    |
-|---------|-------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------|--------------------------------------------------------------------------|
-|       1 | [Shell für Anfänger](https://labex.io/de/courses/shell-for-beginners)         | Anfänger        | [🔗 Repo](https://github.com/labex-labs/shell-for-beginners)       | [🚀 Labor Starten](https://labex.io/de/courses/shell-for-beginners)       |
-|       2 | [Shell Übungsaufgaben](https://labex.io/de/courses/shell-practice-challenges) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/shell-practice-challenges) |
+[Kurse auf LabEx erkunden](https://labex.io/de/learn/shell)
 
-## Mehr
+|   Index | Kurs                                                                                                  | Schwierigkeit   | Repository                                                                 | Übung                                                                           |
+|---------|-------------------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+|       1 | [Junior Systemadministrator werden](https://labex.io/de/courses/become-a-junior-system-administrator) | Anfänger        | [Repo](https://github.com/labex-labs/become-a-junior-system-administrator) | [Lab starten](https://labex.io/de/courses/become-a-junior-system-administrator) |
+|       2 | [Shell für Anfänger](https://labex.io/de/courses/shell-for-beginners)                                 | Anfänger        | [Repo](https://github.com/labex-labs/shell-for-beginners)                  | [Lab starten](https://labex.io/de/courses/shell-for-beginners)                  |
 
-- 🔗 [Shell Kostenlose Tutorials](https://github.com/labex-labs/shell-free-tutorials)
-- 🔗 [Großartige Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Großartige Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+[Mehr auf LabEx ansehen](https://labex.io/de/learn/shell)
+
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
